@@ -1,4 +1,4 @@
-const CACHE_NAME = 'konsta-svelte-kitchen-sink-v1';
+const CACHE_NAME = 'konsta-svelte-kitchen-sink-v2';
 const APP_SHELL = ['./', './manifest.webmanifest', './favicon.png', './apple-touch-icon.png'];
 
 self.addEventListener('install', (event) => {
