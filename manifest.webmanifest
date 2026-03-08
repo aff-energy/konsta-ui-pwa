@@ -1,0 +1,27 @@
+{
+  "id": "./",
+  "name": "Konsta UI Svelte Kitchen Sink",
+  "short_name": "Konsta Svelte",
+  "description": "Kitchen sink demo for Konsta UI Svelte components.",
+  "lang": "en-US",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": "./",
+  "scope": "./",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "./favicon.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./apple-touch-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
